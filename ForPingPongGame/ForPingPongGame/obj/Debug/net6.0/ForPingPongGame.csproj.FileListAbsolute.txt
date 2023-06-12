@@ -1,0 +1,15 @@
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\bin\Debug\net6.0\ForPingPongGame.exe
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\bin\Debug\net6.0\ForPingPongGame.deps.json
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\bin\Debug\net6.0\ForPingPongGame.runtimeconfig.json
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\bin\Debug\net6.0\ForPingPongGame.dll
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\bin\Debug\net6.0\ForPingPongGame.pdb
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.csproj.AssemblyReference.cache
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.AssemblyInfoInputs.cache
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.AssemblyInfo.cs
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.csproj.CoreCompileInputs.cache
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.dll
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\refint\ForPingPongGame.dll
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.pdb
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ForPingPongGame.genruntimeconfig.cache
+C:\Users\anemo\source\ForPingPongGame\ForPingPongGame\obj\Debug\net6.0\ref\ForPingPongGame.dll
